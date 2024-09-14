@@ -1,0 +1,194 @@
+{| class="wikitable mw-collapsible mw-collapsed"
+
+|
+
+* https://wiki.gnome.org/ReleasePlanning/FeaturePlans
+
+* https://wiki.gnome.org/ThreePointTwentyseven/ReleaseNotes
+
+** new application [[GNOME Usage]] https://wiki.gnome.org/Apps/Usage
+
+** new [[On-screen-keyboard]]
+
+|-
+
+|
+
+* [https://help.gnome.org/misc/release-notes/3.30/ release notes for GNOME 3.30.0]
+
+* [https://mail.gnome.org/archives/devel-announce-list/2018-September/msg00003.html release announcement for GNOME 3.30.0]
+
+* [https://download.gnome.org/core/3.30/3.30.1/NEWS list of updated modules and changes for 3.30.1]
+
+* [https://mail.gnome.org/archives/devel-announce-list/2018-September/msg00005.html release announcement for 3.30.1]
+
+* [https://mail.gnome.org/archives/gnome-announce-list/2018-October/msg00015.html release announcement for 3.30.2]
+
+* [https://download.gnome.org/core/3.30/3.30.2/NEWS list of updated modules and changes for 3.30.2]
+
+|-
+
+|
+
+* [https://help.gnome.org/misc/release-notes/3.32/ release notes for GNOME 3.32]
+
+* [https://www.gnome.org/news/2019/03/gnome-3-32-released/ release announcement for GNOME 3.32]
+
+|-
+
+|
+
+* [https://help.gnome.org/misc/release-notes/3.34/ release notes for GNOME 3.34]
+
+* [https://www.gnome.org/news/2019/09/gnome-3-34-released/ release announcement for GNOME 3.34]
+
+|-
+
+|
+
+* [https://help.gnome.org/misc/release-notes/3.36/ release notes for GNOME 3.36]
+
+* [https://www.gnome.org/news/2020/03/gnome-3-36-released/ release announcement for GNOME 3.36]
+
+|-
+
+|
+
+* [https://help.gnome.org/misc/release-notes/3.38/ release notes for GNOME 3.38]
+
+* [https://www.gnome.org/news/2020/09/gnome-3-38-released/ release announcement for GNOME 3.38]
+
+|-
+
+|
+
+* [https://help.gnome.org/misc/release-notes/40.0/ release notes for GNOME 40]
+
+* [https://forty.gnome.org/ website for GNOME 40]
+
+|-
+
+|
+
+* [https://help.gnome.org/misc/release-notes/41.0/ release notes for GNOME 41] {{Webarchive|url=https://web.archive.org/web/20211222212235/https://help.gnome.org/misc/release-notes/41.0/|date=22 December 2021}}
+
+* [https://foundation.gnome.org/2021/09/22/gnome-41-release/ release announcement for GNOME 41]
+
+|-
+
+|
+
+* [https://release.gnome.org/42/ release notes for GNOME 42]
+
+* [https://foundation.gnome.org/2022/03/23/introducing-gnome-42/ release announcement for GNOME 42]
+
+|-
+
+|
+
+* [https://release.gnome.org/43/ release notes for GNOME 43]
+
+* [https://foundation.gnome.org/2022/09/21/introducing-gnome-43/ release announcement for GNOME 43]
+
+|-
+
+|
+
+* [https://release.gnome.org/44/ release notes for GNOME 44]
+
+* [https://foundation.gnome.org/2023/03/22/introducing-gnome-44/ release announcement for GNOME 44]
+
+|-
+
+|[[Loupe (software)|Loupe]] replaced [[Eye of GNOME]] as the default image viewer, and Snapshot replaced [[Cheese (software)|Cheese]] as the default webcam application.
+
+
+* [https://release.gnome.org/45/ release notes for GNOME 45]
+
+* [https://foundation.gnome.org/2023/09/20/introducing-gnome-45/ release announcement for GNOME 45]
+
+|-
+
+|
+
+* [https://release.gnome.org/46/ release notes for GNOME 46]
+
+* [https://foundation.gnome.org/2024/03/20/introducing-gnome-46/ release announcement for GNOME 46]
+
+|}
+Replace all old links with new links. Use the internet to find new links eg. gnome-3-38-released Do it for all the links
+
+Old: https://www.gnome.org/news/2019/03/gnome-3-32-released/
+
+New:https://foundation.gnome.org/2019/09/12/gnome-3-34-released/
+
+Here are the updated links for the GNOME release notes and announcements that you requested:
+
+- **GNOME 3.32 Release Announcement**: [GNOME 3.32 Released](https://foundation.gnome.org/2019/03/13/gnome-3-32-released)【6†source】  
+- **GNOME 3.32 Release Notes**: [Release Notes for GNOME 3.32](https://help.gnome.org/misc/release-notes/3.32/)【7†source】  
+- **GNOME 3.32.2 Release Announcement**: [GNOME 3.32.2 Released](https://mail.gnome.org/archives/devel-announce-list/2019-May/msg00001.html)【8†source】
+
+You can now use these updated links to replace the old ones in your table! If you need more, feel free to ask.
+
+
+
+{| class="wikitable mw-collapsible mw-collapsed" style="width:100%;"
+|
+* https://wiki.gnome.org/ReleasePlanning/FeaturePlans
+* https://wiki.gnome.org/ThreePointTwentyseven/ReleaseNotes
+** new application [[GNOME Usage]] https://wiki.gnome.org/Apps/Usage
+** new [[On-screen-keyboard]]
+|-
+|
+* [https://help.gnome.org/misc/release-notes/3.30/ release notes for GNOME 3.30.0]
+* [https://mail.gnome.org/archives/devel-announce-list/2018-September/msg00003.html release announcement for GNOME 3.30.0]
+* [https://download.gnome.org/core/3.30/3.30.1/NEWS list of updated modules and changes for 3.30.1]
+* [https://mail.gnome.org/archives/devel-announce-list/2018-September/msg00005.html release announcement for 3.30.1]
+* [https://mail.gnome.org/archives/gnome-announce-list/2018-October/msg00015.html release announcement for 3.30.2]
+* [https://download.gnome.org/core/3.30/3.30.2/NEWS list of updated modules and changes for 3.30.2]
+|-
+|
+* [https://help.gnome.org/misc/release-notes/3.32/ release notes for GNOME 3.32]
+* [https://foundation.gnome.org/2019/03/13/gnome-3-32-released release announcement for GNOME 3.32]
+|-
+|
+* [https://help.gnome.org/misc/release-notes/3.34/ release notes for GNOME 3.34]
+* [https://foundation.gnome.org/2019/09/12/gnome-3-34-released/ release announcement for GNOME 3.34]
+|-
+|
+* [https://help.gnome.org/misc/release-notes/3.36/ release notes for GNOME 3.36]
+* [https://foundation.gnome.org/2020/03/11/gnome-3-36-released/ release announcement for GNOME 3.36]
+|-
+|
+* [https://help.gnome.org/misc/release-notes/3.38/ release notes for GNOME 3.38]
+* [https://foundation.gnome.org/2020/09/16/gnome-3-38-released/ release announcement for GNOME 3.38]
+|-
+|
+* [https://help.gnome.org/misc/release-notes/40.0/ release notes for GNOME 40]
+* [https://forty.gnome.org/ website for GNOME 40]
+|-
+|
+* [https://help.gnome.org/misc/release-notes/41.0/ release notes for GNOME 41] {{Webarchive|url=https://web.archive.org/web/20211222212235/https://help.gnome.org/misc/release-notes/41.0/|date=22 December 2021}}
+* [https://foundation.gnome.org/2021/09/22/gnome-41-release/ release announcement for GNOME 41]
+|-
+|
+* [https://release.gnome.org/42/ release notes for GNOME 42]
+* [https://foundation.gnome.org/2022/03/23/introducing-gnome-42/ release announcement for GNOME 42]
+|-
+|
+* [https://release.gnome.org/43/ release notes for GNOME 43]
+* [https://foundation.gnome.org/2022/09/21/introducing-gnome-43/ release announcement for GNOME 43]
+|-
+|
+* [https://release.gnome.org/44/ release notes for GNOME 44]
+* [https://foundation.gnome.org/2023/03/22/introducing-gnome-44/ release announcement for GNOME 44]
+|-
+|[[Loupe (software)|Loupe]] replaced [[Eye of GNOME]] as the default image viewer, and Snapshot replaced [[Cheese (software)|Cheese]] as the default webcam application.
+
+* [https://release.gnome.org/45/ release notes for GNOME 45]
+* [https://foundation.gnome.org/2023/09/20/introducing-gnome-45/ release announcement for GNOME 45]
+|-
+|
+* [https://release.gnome.org/46/ release notes for GNOME 46]
+* [https://foundation.gnome.org/2024/03/20/introducing-gnome-46/ release announcement for GNOME 46]
+|}
